@@ -1,0 +1,8 @@
+.deps
+.libs
+Thumbs.db
+.DS_Store
+*~
+*.lo
+*.so
+*.o
